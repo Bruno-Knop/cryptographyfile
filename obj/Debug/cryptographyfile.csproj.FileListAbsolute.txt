@@ -8,3 +8,13 @@ C:\Users\brkno\Documents\C#\cryptographyfile\obj\Debug\cryptographyfile.csproj.G
 C:\Users\brkno\Documents\C#\cryptographyfile\obj\Debug\cryptographyfile.csproj.CoreCompileInputs.cache
 C:\Users\brkno\Documents\C#\cryptographyfile\obj\Debug\cryptographyfile.exe
 C:\Users\brkno\Documents\C#\cryptographyfile\obj\Debug\cryptographyfile.pdb
+D:\OneDrive\PC\Backup D\Programação\Projetos\C#\cryptographyfile\bin\Debug\cryptographyfile.exe.config
+D:\OneDrive\PC\Backup D\Programação\Projetos\C#\cryptographyfile\bin\Debug\cryptographyfile.exe
+D:\OneDrive\PC\Backup D\Programação\Projetos\C#\cryptographyfile\bin\Debug\cryptographyfile.pdb
+D:\OneDrive\PC\Backup D\Programação\Projetos\C#\cryptographyfile\obj\Debug\cryptographyfile.csprojAssemblyReference.cache
+D:\OneDrive\PC\Backup D\Programação\Projetos\C#\cryptographyfile\obj\Debug\cryptographyfile.From1.resources
+D:\OneDrive\PC\Backup D\Programação\Projetos\C#\cryptographyfile\obj\Debug\cryptographyfile.Properties.Resources.resources
+D:\OneDrive\PC\Backup D\Programação\Projetos\C#\cryptographyfile\obj\Debug\cryptographyfile.csproj.GenerateResource.cache
+D:\OneDrive\PC\Backup D\Programação\Projetos\C#\cryptographyfile\obj\Debug\cryptographyfile.csproj.CoreCompileInputs.cache
+D:\OneDrive\PC\Backup D\Programação\Projetos\C#\cryptographyfile\obj\Debug\cryptographyfile.exe
+D:\OneDrive\PC\Backup D\Programação\Projetos\C#\cryptographyfile\obj\Debug\cryptographyfile.pdb
