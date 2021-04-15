@@ -1,0 +1,10 @@
+C:\Users\brkno\Documents\C#\cryptographyfile\bin\Debug\cryptographyfile.exe.config
+C:\Users\brkno\Documents\C#\cryptographyfile\bin\Debug\cryptographyfile.exe
+C:\Users\brkno\Documents\C#\cryptographyfile\bin\Debug\cryptographyfile.pdb
+C:\Users\brkno\Documents\C#\cryptographyfile\obj\Debug\cryptographyfile.csprojAssemblyReference.cache
+C:\Users\brkno\Documents\C#\cryptographyfile\obj\Debug\cryptographyfile.From1.resources
+C:\Users\brkno\Documents\C#\cryptographyfile\obj\Debug\cryptographyfile.Properties.Resources.resources
+C:\Users\brkno\Documents\C#\cryptographyfile\obj\Debug\cryptographyfile.csproj.GenerateResource.cache
+C:\Users\brkno\Documents\C#\cryptographyfile\obj\Debug\cryptographyfile.csproj.CoreCompileInputs.cache
+C:\Users\brkno\Documents\C#\cryptographyfile\obj\Debug\cryptographyfile.exe
+C:\Users\brkno\Documents\C#\cryptographyfile\obj\Debug\cryptographyfile.pdb
