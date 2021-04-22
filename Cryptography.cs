@@ -38,6 +38,10 @@ namespace cryptographyfile {
                 return result;
             }
 
+            if (!Directory.Exists(EncrFloder)) {
+                Directory.CreateDirectory(EncrFloder);
+            }
+
             cspp.KeyContainerName = KeyName;
             rsa = new RSACryptoServiceProvider(cspp);
             rsa.PersistKeyInCsp = true;
@@ -122,6 +126,10 @@ namespace cryptographyfile {
             if (string.IsNullOrEmpty(KeyName)) {
                 result = "Public key not defined";
                 return result;
+            }
+
+            if (!Directory.Exists(EncrFloder)) {
+                Directory.CreateDirectory(EncrFloder);
             }
 
             cspp.KeyContainerName = KeyName;
